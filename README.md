@@ -1,6 +1,6 @@
-🤖 AI Study Topic Explainer
+# 🤖 AI Study Topic Explainer
 
-A small web app where you type a topic and get a simple, student-friendly explanation back.
+### A small web app where you type a topic and get a simple, student-friendly explanation back.
 
 ## 📚 Project Description
 
