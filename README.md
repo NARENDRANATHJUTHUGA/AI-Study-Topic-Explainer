@@ -109,20 +109,6 @@ Errors:
 { "ok": false, "error": { "message": "...", "code": "..." } }
 ```
 
-Common status codes:
-
-- `400` empty topic / invalid input
-- `401` invalid/rejected API key
-- `429` quota/rate-limit exceeded
-- `503` model not found / upstream unavailable
-
-## Useful Scripts
-
-- `npm test` runs UI tests (Vitest)
-- `npm run lint` runs ESLint
-- `npm run build` builds for production
-- `npm run list-models` lists available Gemini models for your API key
-
 ## Troubleshooting
 
 ### “Gemini API key was rejected”
@@ -169,7 +155,5 @@ GEMINI_MODEL=gemini-2.0-flash
 - Never put `GOOGLE_API_KEY` in client-side code.
 - Only store it in `.env.local` (local dev) and in your deployment provider’s env vars.
 
-## Notes
 
-- If `npm run build` prints a warning about the deprecated `middleware` convention, it’s safe to ignore for this project.
 "# AI-Study-Topic-Explainer" 
