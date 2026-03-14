@@ -172,3 +172,4 @@ GEMINI_MODEL=gemini-2.0-flash
 ## Notes
 
 - If `npm run build` prints a warning about the deprecated `middleware` convention, it’s safe to ignore for this project.
+"# AI-Study-Topic-Explainer" 
